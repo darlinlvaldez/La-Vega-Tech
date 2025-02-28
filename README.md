@@ -32,7 +32,7 @@ JavaScript
 
 # Requisitos
 
-XAMPP instalado para ejecutar el servidor local.
+XAMPP instalado para ejecutar el servidor local (tener el proyecto el la carpeta htdocs de XAMPP).
 
 Tener Nodejs version 23 o superior en el sistema.
 
@@ -51,6 +51,8 @@ Espero que este proyecto sirva como base para futuros desarrollos y contribuya a
 
 
 ## Pasos para levantar el sistema:
+
+**Con la libreria de express ya puedes correr el proyecto sin problemas porque esta libreria ya proporciona un servidor, pero se necesitará uno para la base de datos, ya sea que descargues la de MySQL en la web oficial o lo tengas en XAMPP con phpmyadmin**
 
 Decargar las siguientes dependecias:
 
